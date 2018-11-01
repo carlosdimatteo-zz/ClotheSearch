@@ -1,0 +1,25 @@
+{
+  "name": "clothesearch",
+  "version": "1.0.0",
+  "description": "An app to search and indentify clothing types and brands as a test for Rokk3r labs Colombia",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.5",
+    "pg-promise": "^8.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosdimatteo/ClotheSearch.git"
+  },
+  "author": "Carlos Di Matteo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosdimatteo/ClotheSearch/issues"
+  },
+  "homepage": "https://github.com/carlosdimatteo/ClotheSearch#readme"
+}
