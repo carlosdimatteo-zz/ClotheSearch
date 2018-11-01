@@ -1,0 +1,15 @@
+body{
+    background-color: #f4f4f4;
+}
+.searchBox{
+    margin-top: 10vh;
+}
+
+.pageTitle{
+    margin-top: 5vh;
+
+}
+
+.resultText{
+    margin-top:2vh;
+}
